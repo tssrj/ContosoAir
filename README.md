@@ -1,5 +1,8 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+# Badge
+
+[![Build Status](https://dev.azure.com/learnazv1/DevOpsFresh/_apis/build/status/tssrj.ContosoAir?branchName=master)](https://dev.azure.com/learnazv1/DevOpsFresh/_build/latest?definitionId=5&branchName=master)
 
 # Microsoft.Github CI Demo
 
